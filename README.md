@@ -50,5 +50,12 @@ This project is a web-based course portal selection system developed using Java,
 * MySQL Database
 * Front-end: HTML, CSS, JavaScript, Bootstrap
 
-## Getting Started
+## Interface:
+![image](https://github.com/user-attachments/assets/94fb7138-3466-475c-9370-c32a5a6f797f)
+
+
+![image](https://github.com/user-attachments/assets/a020772e-0d7a-4d1b-af63-9c672b02645c)
+
+
+![image](https://github.com/user-attachments/assets/45dd335a-70e2-435a-9710-25cb10646df3)
 
